@@ -9,6 +9,7 @@ function App() {
         <h1>Hello World!</h1>
 
         <p>Uma nova feature</p>
+        <p>Segunda feature</p>
 
       </header>
     </div>
